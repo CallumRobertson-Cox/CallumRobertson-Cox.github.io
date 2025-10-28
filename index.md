@@ -4,6 +4,7 @@ Interested in Data Science and Machine Learning.
 
 ## Projects 
 - Whale Migration Predictor - A Simple introduction into ML models and visualisation
+![Whale Visualization](Whale-prediction.png)
 - Emotion Recognition System - audio feature extraction with a neural net for prediction
 
 ## Contact 

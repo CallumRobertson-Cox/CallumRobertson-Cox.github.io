@@ -9,7 +9,10 @@ Interested in Data Science and Machine Learning.
 <img src="Whale-prediction2.png" alt="Nueral net" width="300"/>
 </p>
 - Emotion Recognition System - audio feature extraction with a neural net for prediction
-
+<p float="left">
+<img src="Whale-prediction.png" alt="K nearest neighbours" width="300"/>
+<img src="" alt="Nueral net" width="300"/>
+</p>
 ## Contact 
 [GitHub](https://github.com/CallumRobertson-Cox)
  

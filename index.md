@@ -8,7 +8,7 @@ Interested in Data Science and Machine Learning.
 <img src="Whale-prediction.png" alt="K nearest neighbours" width="300"/>
 <img src="Whale-prediction2.png" alt="Nueral net" width="300"/>
 </p>
-- Emotion Recognition System - audio feature extraction with a neural net for prediction
+- Emotion Recognition System - audio feature extraction with a neural net for prediction. Works well ass its own model but struggles in the GUI likely due to background noise when recording. On the left is the GUI on the right is the Classification Report. 
 <p float="left">
 <img src="emotion GUI.png" alt="GUI" width="300"/>
 <img src="Classification_report_emotions.png" alt="Class report" width="300"/>

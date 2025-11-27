@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Portfolio
+layout: wide
+sidebar: false
 description: Projects by Callum Robertson-Cox

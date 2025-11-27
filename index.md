@@ -9,9 +9,11 @@ Interested in Data Analysis, Data Science, and Machine Learning.
 - Data cleaning was also performed in SQL, converting string fields into numerical categories and removing null values, while retaining outliers to focus on real‑world churn reasons.
 - Built visualizations in Python to gain deeper insights into the data.
 - Trained an XGBoost model, evaluated with a confusion matrix, and extracted feature importance to highlight the strongest predictors of churn.
+- Top three Features plotted on a dashboard in tableau 
 <p float="left">
 <img src="Feature Importance.png" alt="K nearest neighbours" width="300"/>
 <img src="Churn Matrix.png" alt="Nueral net" width="300"/>
+<img src="Tab.png" alt="Nueral net" width="300"/>
 </p>
 - Whale Migration Predictor - A Simple introduction into ML models and visualisation. I exctracted data from an online migration database cleaned the data and put them into a nueral net on the right and a K nearest neighbours on the left. From this model we can see whales are very habitual in their migration patterns.
 <p float="left">

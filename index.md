@@ -11,9 +11,9 @@ Interested in Data Analysis, Data Science, and Machine Learning.
 - Trained an XGBoost model, evaluated with a confusion matrix, and extracted feature importance to highlight the strongest predictors of churn.
 - Top three Features plotted on a dashboard in tableau 
 <p float="left">
-<img src="Feature Importance.png" alt="K nearest neighbours" width="300"/>
-<img src="Churn Matrix.png" alt="Nueral net" width="300"/>
-<img src="Tab.png" alt="Nueral net" width="300"/>
+<img src="Feature Importance.png" alt="K nearest neighbours" width="200"/>
+<img src="Churn Matrix.png" alt="Nueral net" width="200"/>
+<img src="Tab.png" alt="Nueral net" width="200"/>
 </p>
 
 ## Music Recommendation System

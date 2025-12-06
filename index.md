@@ -23,6 +23,12 @@ Interested in Data Analysis, Data Science, and Machine Learning.
 - Used the Spotipy API to extract audio features from a user’s Spotify playlist and generated a single feature vector representing the playlist's “average” song profile. Applied a K-Nearest Neighbors model to identify and recommend songs from the full dataset that best matched the user’s listening preferences.
  
 - Built a user-friendly desktop interface using Tkinter, allowing users to input their Spotify credentials and select the number of recommendations they want. The system outputs personalized song recommendations directly through the GUI.
+- Below shows the GUI for recommendations and a Cluster for the artists which scores 0.7 on the Silhouette Score.
+
+<p float="left">
+<img src="Music GUI" alt="GUI" width="300"/>
+<img src="Clustering.png" alt="Cluster Visual" width="300"/>
+</p>
 
 ## Emotion Recognition System 
 #### Developed an application that analyzes speech input and predicts the speaker’s emotion using audio feature extraction and a machine learning model.

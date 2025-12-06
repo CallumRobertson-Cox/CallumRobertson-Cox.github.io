@@ -15,12 +15,23 @@ Interested in Data Analysis, Data Science, and Machine Learning.
 <img src="Churn Matrix.png" alt="Nueral net" width="300"/>
 <img src="Tab.png" alt="Nueral net" width="300"/>
 </p>
-- Whale Migration Predictor - A Simple introduction into ML models and visualisation. I exctracted data from an online migration database cleaned the data and put them into a nueral net on the right and a K nearest neighbours on the left. From this model we can see whales are very habitual in their migration patterns.
-<p float="left">
-<img src="Whale-prediction.png" alt="K nearest neighbours" width="300"/>
-<img src="Whale-prediction2.png" alt="Nueral net" width="300"/>
-</p>
-- Emotion Recognition System - audio feature extraction with a neural net for prediction. Works well ass its own model but struggles in the GUI likely due to background noise when recording. On the left is the GUI on the right is the Classification Report. 
+
+## Music Recommendation System
+#### Developed an application using the Spotify API that analyzes a user’s playlist and generates 1-10 song recommendations based on similarity metrics.
+- Collected a dataset of both popular and independent songs and performed extensive preprocessing. This included clustering over 3,000 artists into 34 representative groups, one-hot encoding genre information, and cleaning additional audio and metadata features.
+
+- Used the Spotipy API to extract audio features from a user’s Spotify playlist and generated a single feature vector representing the playlist's “average” song profile. Applied a K-Nearest Neighbors model to identify and recommend songs from the full dataset that best matched the user’s listening preferences.
+ 
+- Built a user-friendly desktop interface using Tkinter, allowing users to input their Spotify credentials and select the number of recommendations they want. The system outputs personalized song recommendations directly through the GUI.
+
+## Emotion Recognition System 
+#### Developed an application that analyzes speech input and predicts the speaker’s emotion using audio feature extraction and a machine learning model.
+- Developed a pipeline to convert raw audio files into structured datasets of extracted audio features (e.g., MFCCs, chroma, spectral features).
+
+- Trained a neural network on an online emotion-labeled dataset to classify audio into 8 distinct emotional categories using averaged audio features.
+
+- Built an API and GUI that allow users to upload or record audio files, process them through the model, and receive real-time emotion predictions.
+- Below shoes the GUI and a Classification Report for the CNN
 <p float="left">
 <img src="emotion GUI.png" alt="GUI" width="300"/>
 <img src="Classification_report_emotions.png" alt="Class report" width="300"/>
